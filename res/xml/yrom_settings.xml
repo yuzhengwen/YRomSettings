@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/yrom_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/cpu_setting_header" android:key="cpu_setting_header">
+	
+		<com.sonymobile.settings.preference.IntentPreference android:title="@string/ota" android:summary="@string/ota_summary" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+			<intent android:targetPackage="com.ota.updates" android:action="android.intent.action.MAIN" android:targetClass="com.ota.updates.activities.MainActivity" />
+		</com.sonymobile.settings.preference.IntentPreference>
+	
+		<com.sonymobile.settings.preference.IntentPreference android:title="@string/supersu" android:summary="@string/supersu_desc" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+			<intent android:targetPackage="eu.chainfire.supersu" android:action="android.intent.action.MAIN" android:targetClass="eu.chainfire.supersu.MainActivity" />
+		</com.sonymobile.settings.preference.IntentPreference>
+			
+		<com.sonymobile.settings.preference.IntentPreference android:title="@string/xposed" android:summary="@string/xposed_summary" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+			<intent android:targetPackage="de.robv.android.xposed.installer" android:action="android.intent.action.MAIN" android:targetClass="de.robv.android.xposed.installer.WelcomeActivity" />
+		</com.sonymobile.settings.preference.IntentPreference>
+			
+        <com.sonymobile.settings.preference.IntentPreference android:title="@string/cpu_control" android:key="cpu_control" android:summary="@string/cpu_control_summary">
+            <intent android:targetPackage="it.sineo.android.noFrillsCPUClassic" android:action="android.intent.action.MAIN" android:targetClass="it.sineo.android.noFrillsCPUClassic.activity.MainActivity" />
+        </com.sonymobile.settings.preference.IntentPreference>
+		
+        <com.sonymobile.settings.preference.IntentPreference android:title="@string/cpu_stats" android:key="cpu_stats" android:summary="@string/cpu_stats_summary">
+            <intent android:targetPackage="com.bvalosek.cpuspy" android:action="android.intent.action.MAIN" android:targetClass="com.bvalosek.cpuspy.ui.HomeActivity" />
+        </com.sonymobile.settings.preference.IntentPreference>
+		
+		<com.sonymobile.settings.preference.IntentPreference android:title="@string/serajr_xposed" android:summary="@string/serajr_xposed_desc" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+            <intent android:targetPackage="serajr.xx.lp" android:action="android.intent.action.MAIN" android:targetClass="serajr.xx.lp.activities.MainActivity" />
+        </com.sonymobile.settings.preference.IntentPreference>
+		
+        <com.sonymobile.settings.preference.IntentPreference android:title="@string/kernel_audiutor" android:summary="@string/kernel_aud_desc" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+            <intent android:targetPackage="com.grarak.kerneladiutor" android:action="android.intent.action.MAIN" android:targetClass="com.grarak.kerneladiutor.MainActivity" />
+        </com.sonymobile.settings.preference.IntentPreference>
+		
+		<com.sonymobile.settings.preference.IntentPreference android:title="@string/app_ops_settings" android:summary="@string/app_ops_settings_summary" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.findsdk.apppermission" android:action="android.intent.action.MAIN" android:targetClass="com.findsdk.apppermission.MainActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+		
+    </PreferenceCategory>
+</PreferenceScreen>

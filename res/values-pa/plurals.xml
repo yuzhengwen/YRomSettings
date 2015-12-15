@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d ਦਿਨ</item>
+        <item quantity="one">%d ਦਿਨ</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ਘੰਟੇ</item>
+        <item quantity="one">%d ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d ਐਪਸ ਹੁਣ ਸੂਚੀ ਵਿੱਚ ਹਨ</item>
+        <item quantity="one">%1$d ਐਪ ਹੁਣ ਸੂਚੀ ਵਿੱਚ ਹੈ</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ਤੁਸੀਂ ਡਿਵੈਲਪਰ ਬਣਨ ਤੋਂ ਹੁਣ %1$d ਕਦਮ ਦੂਰ ਹੋ।</item>
+        <item quantity="one">ਤੁਸੀਂ ਡਿਵੈਲਪਰ ਬਣਨ ਤੋਂ ਹੁਣ %1$d ਕਦਮ ਦੂਰ ਹੋ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ %d ਵਰਨ ਸ਼ਾਮਲ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ</item>
+        <item quantity="one">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਵਰਨ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ %d ਛੋਟੇ ਆਕਾਰ ਦੇ ਵਰਨ ਸ਼ਾਮਲ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ</item>
+        <item quantity="one">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਛੋਟੇ ਆਕਾਰ ਦਾ ਵਰਨ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ %d ਵੱਡੇ ਆਕਾਰ ਦਾ ਵਰਨ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।</item>
+        <item quantity="one">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਵੱਡੇ ਆਕਾਰ ਦਾ ਵਰਨ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ %d ਸੰਖਿਅਕ ਅੰਕ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</item>
+        <item quantity="one">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਸੰਖਿਅਕ ਅੰਕ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ %d ਖਾਸ ਪ੍ਰਤੀਕ ਸ਼ਾਮਲ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ</item>
+        <item quantity="one">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਖਾਸ ਪ੍ਰਤੀਕ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ %d ਗੈਰ-ਵਰਨ ਅੱਖਰ ਸ਼ਾਮਲ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ</item>
+        <item quantity="one">ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਗੈਰ-ਵਰਨ ਅੱਖਰ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ਗਲਤ ਸਿਮ PIN ਕੋਡ ਹੈ, ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਸ਼ਾਂ ਬਾਕੀ ਬਚੀਆਂ ਹਨ।</item>
+        <item quantity="one">ਗਲਤ ਸਿਮ PIN ਕੋਡ, ਤੁਹਾਡੇ ਕੋਲ ਆਪਣੇ ਉਪਕਰਣ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਆਪਣੇ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਨਾਲ ਜ਼ਰੂਰੀ ਰੂਪ ਵਿੱਚ ਸੰਪਰਕ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ %d ਕੋਸ਼ਸ਼ਾਂ ਬਾਕੀ ਹਨ।</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ਐਪਸ ਸੂਚਨਾਵਾਂ ਪੜ੍ਹ ਸਕਦੇ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਸੂਚਨਾਵਾਂ ਪੜ੍ਹ ਸਕਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d ਐਪਸ ਸ਼ਰਤਾਂ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਸ਼ਰਤਾਂ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="xssm_settings_blacklist_summary_txt">
+        <item quantity="other">%d ਐਪਸ ਚੁਣੇ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਚੁਣਿਆ ਹੈ</item>
+    </plurals>
+    <plurals name="lock_after_timeout_minutes">
+        <item quantity="other">"%1$d ਮਿੰਟ "</item>
+        <item quantity="one">"%1$d ਮਿੰਟ "</item>
+    </plurals>
+</resources>

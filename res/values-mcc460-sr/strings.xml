@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l_dialog_message_hint">"STAMINA režim obuhvata: 
+
+• Produženo stanje pripravnosti
+Štedi energiju kad je ekran privremeno isključen onemogućujući WLAN i mobilnih podatke. Većina aplikacija biće neaktivna.
+Kad je ekran uključen, telefon će funkcionisati normalno.
+Ako želite da neke aplikacije budu aktivne dok je produženo stanje pripravnosti omogućeno, dodajte aplikaciju na listu aplikacija aktivnih u stanju pripravnosti.
+
+• Produženo korišćenje
+Štedi energiju kad se uređaj koristi ograničavajući performanse hardvera."</string>
+    <string name="powersaver_feature_wifi">WLAN je isključen</string>
+    <string name="stamina_xssm_summary">Onemogućava mobilne podatke i WLAN kada se ekran isključi</string>
+    <string name="usm_descr">"Ultra STAMINA režim će znatno produžiti trajanje baterije. Može se koristiti kada duže vreme ne možete da punite uređaj.
+
+Biće dostupno samo nekoliko osnovnih funkcija, kao što su „Telefon“ i „Razmena poruka“. Tapnite na opciju „Više informacija“ da biste videli dodatne detalje.
+
+Imajte u vidu da će internet veza putem WLAN mreže i mobilnih podataka biti onemogućena."</string>
+    <string name="wifi_tethering_warning_txt">Sve tekuće WLAN operacije kao što su prenos medija, ažuriranje softvera telefona, pravljenje i vraćanje rezervne kopije biće prekinute.</string>
+    <string name="install_wapi_certs">Instaliraj WLAN sertifikate</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Automatsko povezivanje sa dostupnim Passpoint mrežama kad je WLAN uključen</string>
+    <string name="ct_wifi_connected_text">China Telecom – WLAN veza</string>
+    <string name="cw_network_priority">China Telecom WLAN prioritet</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN mreže će imati prioritet u odnosu na druge WLAN mreže u vezi</string>
+    <string name="data_traffic_disabled_text">Nije moguće povezati se sa China Telecom WLAN mrežama jer je razmena podataka onemogućena. Želite li odmah da omogućite razmenu podataka?</string>
+    <string name="location_based_wifi">WLAN veza zasnovana na lokaciji</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatski se poveži sa WLAN pristupnom tačkom operatera</string>
+    <string name="operator_auto_connect_hotspot_txt">Aut. pov. na WLAN oper.</string>
+    <string name="wifi_calling_mode_title">WLAN pozivanje</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Promeni WLAN sertfikat</string>
+    <string name="wifi_p2p_settings">Podešavanja za WLAN Direct™</string>
+    <string name="wifi_security_verbose_wapi_cert">Obezbeđeno pomoću WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Obezbeđeno pomoću WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Uređaj možete da koristite kao mobilnu pristupnu tačku. To dozvoljava drugim uređajima (najviše 10) da se povežu sa njim putem WLAN mreže. Povezani uređaji će imati pristup internetu preko mobilne mrežne veze. Mobilna pristupna tačka koristi mobilni prenos podataka i mogu važiti dodatne naknade.
+
+Mobilna pristupna tačka troši više baterije. Stavite uređaj na punjenje da biste produžili trajanje baterije."</string>
+    <string name="wifi_tether_settings_subtext">Podešavanje prenosive WLAN pristupne tačke i upravljanje njome</string>
+    <string name="wifi_tether_settings_text">Podešavanja WLAN pristupne tačke</string>
+    <string name="wifi_wps_category_title">Podešavanje WLAN mreže</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA režim štedi snagu baterije prilagođavanjem podešavanja uređaja. Možete da izaberete aplikacije koje ćete pokrenuti sa smanjenom funkcionalnošću tokom režima spavanja. (To vam omogućava da štedite snagu baterije jer većina aplikacija troši bateriju čak i u režimu spavanja.)
+
+Funkcije koje će biti onemogućene za izabrane aplikacije:
+– WLAN
+– mobilni podaci
+– tajmer
+
+Lampica obaveštenja treperi za sve aplikacije u istoj boji i istom učestalošću tokom režima spavanja.
+
+STAMINA režim se deaktivira dok kontrolišete uređaj."</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Šta je STAMINA režim?</u>"
+STAMINA režim je Sony funkcija štednje energije. On produžava trajanje baterije kada je ekran isključen.
+
+"<u>Osnovna upotreba</u>"
+Da biste uključili STAMINA režim, tapnite na dugme na ekranu.
+Kada je ekran isključen, podaci WLAN mreže i mobilni podaci će biti privremeno onemogućeni, a većina aplikacija će biti neaktivna radi uštede baterije.
+Kada je ekran uključen, vaš telefon će normalno funkcionisati.
+
+"<u>Napredna upotreba</u>"
+Ako želite da neke aplikacije ostanu aktivne kada je STAMINA režim uključen, dodajte ih na listu APLIKACIJE AKTIVNE PRI STANJU PRIPRAVNOSTI.
+Aplikacije možda neće ispravno raditi ako nisu dodate na listu.
+
+"<u>Napomena</u>"
+Ako neka aplikacija ne funkcioniše ispravno, registrujte je na listi APPLIKACIJE AKTIVNE PRI STANJU PRIPRAVNOSTI ili isključite STAMINA režim."</string>
+    <string name="airplane_mode_info">Režim rada u avionu isključuje sve mrežne veze, uključujući pozivanje, slanje SMS-ova, pristup Internetu, WLAN i Bluetooth.</string>
+    <string name="cw_network_notification">Omogući CT WLAN obaveštenje</string>
+    <string name="dialog_message_hint">"STAMINA režim uključuje:
+
+• Prošireno stanje pripravnosti
+Produžava trajanje baterije tako što privremeno onemogućava WLAN i mobilne podatke dok je ekran isključen. Većina aplikacija će biti neaktivna.
+Kada je ekran uključen, telefon će normalno funkcionisati.
+Ako želite da održite neke aplikacije aktivnim dok je uključeno prošireno stanje pripravnosti, dodajte aplikacije na listu APLIKACIJE AKTIVNE U STANJU PRIPRAVNOSTI.
+
+• Prošireno korišćenje
+Produžava trajanje baterije tako što ograničava performanse hardvera tokom korišćenja uređaja.
+"</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Da biste delili trenutnu WLAN mrežu, izaberite opciju „Deli informacije o WLAN mreži“ u podešavanju.</string>
+    <string name="nfc_wifi_share_checkbox">Deli informacije o WLAN mreži</string>
+    <string name="nfc_wifi_share_title_txt">Deli informacije o WLAN mreži</string>
+    <string name="powersaver_feature_data_message">Ako ne koristite WLAN, nećete više moći da koristite internet, e-poštu ili druge aplikacije koje zahtevaju vezu za prenos podataka. Isključiti mobilnu vezu za prenos podataka?</string>
+    <string name="somc_backup_failed_no_wifi_summary">Čeka se WLAN veza</string>
+    <string name="somc_wifi_turned_on_info">WLAN je uključen. Izaberite mrežu sa liste.</string>
+    <string name="tethering_disabled_while_wifi_dialog_text_vzw">Povezivanje računara sa internetom putem mobilnog telefona ne može da se koristi dok je WLAN uključen. Ono će biti onemogućeno.</string>
+    <string name="tethering_no_sim_warning_txt">Ubacite SIM karticu da biste delili vezu podataka telefona sa drugim uređajima koristeći Mobile WLAN Hotspot ili USB ograničavanje za Internet</string>
+    <string name="wifi_disabled_while_tethering_dialog_text_vzw">WLAN ne može da se koristi dok je uključeno povezivanje računara sa internetom putem mobilnog telefona. WLAN će biti onemogućen.</string>
+    <string name="wifi_enabled_while_usb_tethering_dialog_text_vzw">USB povezivanje i WLAN ne mogu biti istovremeno uključeni. Isključiti USB povezivanje?</string>
+    <string name="wifi_offload_checkbox_summary">Reci mi kada je WLAN dostupan prilikom otvaranja aplikacija</string>
+    <string name="wifi_offload_checkbox_title">Prikaži iskačuće WLAN veze</string>
+    <string name="wifi_offload_notify_available_networks">WLAN obaveštenje</string>
+    <string name="wifi_offload_notify_available_networks_summary">Obavesti me kada budu dostupne WLAN mreže</string>
+    <string name="wifi_offload_option_title">Dostupne WLAN mreže</string>
+    <string name="wifi_open_network_warning_text_vzw">Povezujete se sa nebezbednom (otvorenom) WLAN mrežom %1$s. Poslate informacije se ne šifruju i mogu biti vidljive drugima. Da li i dalje želite da se povežete?</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN veza je prekinuta. Podešavanje je otkazano.</string>
+    <string name="vzw_avoid_bad_connections_text">"WLAN veza sa kojom se povezujete nije povezana sa internetom.
+
+Da biste se automatski prebacili na mobilnu mrežu kada se ovo desi, uključite „Izbegni loše WLAN veze“ u Naprednim WLAN podešavanjima."</string>
+    <string name="vzw_avoid_bad_connections_title">Bez WLAN internet veze</string>
+    <string name="vzw_wifi_avoid_bad_connections">Izbegni loše WLAN veze</string>
+    <string name="vzw_wifi_avoid_bad_connections_summary">Koristite mobilnu mrežu uvek kada WLAN mreža sa kojom ste povezani nema internet vezu. Može se primeniti upotreba podataka.)</string>
+    <string name="vzw_wifi_password_error_dialog_txt">WLAN lozinka nije prihvaćena. Proverite lozinku i pokušajte ponovo.</string>
+    <string name="vzw_wifi_setup_wizard_desc">Izaberite mrežu ako želite sada da se povežete sa WLAN mrežom.</string>
+    <string name="vzw_wifi_setup_wizard_title">Podešavanje WLAN mreže</string>
+</resources>

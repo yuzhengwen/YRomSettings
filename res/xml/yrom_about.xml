@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/yrom_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceScreen android:layout="@layout/banner" android:title="@string/banner" android:key="banner" />
+    <PreferenceCategory android:title="@string/about_rom" android:key="about_rom">
+        <Preference android:title="@string/rom_name" android:key="rom_name" android:summary="@string/rom_name_details" style="?android:preferenceInformationStyle" />
+        <Preference android:title="@string/rom_ver" android:key="rom_ver" android:summary="@string/rom_ver_details" style="?android:preferenceInformationStyle" />
+        <Preference android:title="@string/rom_date" android:key="rom_date" android:summary="@string/rom_date_details" style="?android:preferenceInformationStyle" />
+        <Preference android:title="@string/rom_developer" android:key="rom_developer" android:summary="@string/rom_developer_name" style="?android:preferenceInformationStyle" />
+        <Preference android:title="@string/dev_thanks" android:key="dev_thanks" android:summary="@string/dev_thanks_name" style="?android:preferenceInformationStyle" />
+    </PreferenceCategory>
+</PreferenceScreen>
